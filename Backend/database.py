@@ -10,4 +10,4 @@ Base.query = db_session.query_property()
 
 def init_db():
     #importing all the modules that might define modules so as they
-    #will be registered properly on the matadata
+    #will be registered properly on the metadata
